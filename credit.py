@@ -1,3 +1,5 @@
+# predict the number of days it will took to pay the credit card bill
+
 import datetime
 import calendar
 
